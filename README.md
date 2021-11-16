@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm J. Ayyappan</h1>
+<h1 align="center">Hi 👋, I'm Ayyappan</h1>
 <h3 align="center">A passionate cyber security enthusiast from India</h3>
 
 - 🌱 I’m currently learning **penetration testing and bug bounty hunting.**
